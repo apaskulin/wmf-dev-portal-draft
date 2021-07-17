@@ -1,0 +1,120 @@
+/**
+ * Custom Styles here.
+ *
+ * ref：https://v1.vuepress.vuejs.org/config/#index-styl
+ */
+
+.home .hero img
+  max-width 450px!important
+
+
+/**
+ * Copyright (c) 2021 by mikestreety (https://codepen.io/mikestreety/pen/yVNNNm)
+ * Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*/
+.theme-container.custom-page-class {
+  .tabs {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .tabs label {
+    order: 1;
+    display: block;
+    padding: 1rem 2rem;
+    margin-right: 0.2rem;
+    cursor: pointer;
+    background: #DDD;
+    font-weight: bold;
+    transition: background ease 0.2s;
+    border-top: 1px solid black;
+  }
+
+  .tabs .tab {
+    order: 99;
+    flex-grow: 1;
+    width: 100%;
+    display: none;
+    padding: 1rem;
+    background: #fff;
+  }
+
+  .tabs input[type="radio"] {
+    display: none;
+  }
+
+  .tabs input[type="radio"]:checked + label {
+    background: #fff;
+  }
+
+  .tabs input[type="radio"]:checked + label + .tab {
+    display: block;
+  }
+
+  @media (max-width: 45em) {
+    .tabs .tab,
+    .tabs label {
+      order: initial;
+    }
+    .tabs label {
+      width: 100%;
+      margin-right: 0;
+      margin-top: 0.2rem;
+    }
+  }
+
+  body {
+    background: #f5f5f5;
+    font-family: sans-serif; 
+    max-width: 100rem;
+    margin: 10px;
+    font-size: 100%;
+  }
+
+  #topbanner {
+    margin-bottom: 40px;
+    margin-top: 20px;
+  }
+
+  #footer {
+    margin-top: 20px;
+  }
+
+  .contentsection {
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    padding: 0;
+    margin: 10px -5px 0 -5px;
+  }
+
+  .contentbox {
+    flex: 1;
+    margin:5px;
+    min-width: 280px;
+    padding: 0 16px 16px 16px;
+    box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12);
+  }
+
+  .contentbox h4 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-block-start: 16px;
+    margin-block-end: 0;
+  }
+
+  .contentbox p {
+    font-size: 14px;
+    margin-block-start: 8px;
+    margin-block-end: 30px;
+  }
+
+   .contentbox a {
+    font-size: 14px;
+    margin-block-start: 16px;
+    text-transform: uppercase;
+  }
+}

@@ -1,0 +1,544 @@
+---
+home: true
+heroText: Wikimedia Developer Portal
+tagline: null
+pageClass: custom-page-class
+footer: A Wikimedia Foundation project
+---
+
+# Overview
+
+[Wikimedia](https://www.wikimedia.org/) is a global movement with a mission to bring free knowledge to the world.
+
+We run the free encyclopedia Wikipedia, the multi-lingual structured database Wikidata, the media repository Wikimedia Commons, and other [free knowledge projects](https://www.wikimedia.org/). We keep the Wikimedia sites fast, reliable, and available to all. Our sites run on our own servers in five data centers across the world.
+
+We build and use Free and Open software to make it easy to read, edit, and share from the Wikimedia sites. Our technology empowers diverse users and communities around the world to contribute and access free knowledge.
+
+Our vibrant free and open-source community of staff and volunteers contributes to the core software MediaWiki, supports curation workflows through tools that enhance the user experience, innovates on new forms of content creation and consumption, and interacts with our data and APIs to visualize or analyze data.
+
+# Use Wikimedia content in your software
+
+Query, pull, and reuse content from Wikimedia sites.
+
+<div class="contentsection">
+
+<div class="contentbox">
+<h4>Access Wikimedia's content and metadata</h4>
+<div>
+<p>Use the REST API to get machine-readable content and metadata from Wikimedia sites.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_REST_API">mw:Wikimedia REST API</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Use the MediaWiki API</h4>
+<div>
+<p>The MediaWiki Action API allows you to programmatically interact with data on your MediaWiki installation.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page">mw:API:Main page</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Use Wikimedia Enterprise</h4>
+<div>
+<p>For companies and organizations to consume and re-use Wikimedia data for commercial purposes.</p>
+<a href="https://enterprise.wikimedia.com/">enterprise.wikimedia.com</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Download database dumps</h4>
+<div>
+<p>Access publicly available data from Wikimedia sites for offline use.</p>
+<a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps">m:Data dumps</a>
+</div></div>
+
+</div>
+
+# Build tools, gadgets, and bots for your Wikimedia community
+
+## Write, run, and host bots
+
+Automate and perform repetitive tasks on a wiki.
+
+<div class="contentsection">
+
+<div class="contentbox">
+<h4>Create a bot</h4>
+<div>
+<p>Write a bot to help perform repetitive work.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot">mw:Manual:Creating a bot</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Explore popular bots</h4>
+<div>
+<p>Find the most popular bots used on Wikimedia sites.</p>
+<a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits/Starter_kit/Bots_and_Tools">m:Small wiki toolkits/Starter kit/Bots and Tools</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Set up and host your bot on Toolforge</h4>
+<div>
+<p>Toolforge enables you to make your bots and tools available to project editors, technical contributors, and other volunteers.
+</p>
+<a href="https://wikitech.wikimedia.org/wiki/Portal:Toolforge">wikitech:Portal:Toolforge</a>
+</div></div>
+
+</div>
+
+<h2>Build and host web applications on Wikimedia Cloud Services</h2>
+
+Host your Wikimedia tools to perform analytics, run webservices, and create tools that help project editors, technical contributors, and other volunteers who work on Wikimedia projects. 
+
+<div class="contentsection">
+<div class="contentbox">
+<h4>Set up and host your tool on Toolforge</h4>
+<div>
+<p>
+Toolforge enables you to make your bots and tools available to project editors, technical contributors, and other volunteers who work on Wikimedia projects.
+</p><a href="https://wikitech.wikimedia.org/wiki/Portal:Toolforge">wikitech:Portal:Toolforge</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Set up and host your software on Cloud VPS</h4>
+<div>
+<p>
+Set up and host your software to make it available to volunteers who work on Wikimedia projects.
+</p><a href="https://wikitech.wikimedia.org/wiki/Portal:Cloud_VPS">wikitech:Portal:Cloud VPS</a>
+</br></br>
+<a href="https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction">wikitech:Help:Cloud Services Introduction</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Understand the difference between Cloud VPS and Toolforge</h4>
+<div>
+<p>
+Have more underlying infrastructure managed on Toolforge or have more personal freedom on Cloud VPS.
+</p><a href="https://wikitech.wikimedia.org/wiki/Help:At_a_glance:_Cloud_VPS_and_Toolforge">wikitech:Help:At a glance: Cloud VPS and Toolforge</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Explore tools available on Toolforge</h4>
+<div>
+<p>
+Browse the tools used by the Wikimedia communities.
+</p><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits/Starter_kit/Bots_and_Tools">m:Small wiki toolkits/Starter kit/Bots and Tools</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Access data services</h4>
+<div>
+<p>
+Learn about data services that allow direct access to databases and dumps, as well as web interfaces for querying and programmatic access to data stores.
+</p><a href="https://wikitech.wikimedia.org/wiki/Portal:Data_Services">wikitech:Portal:Data Services</a>
+</div></div>
+
+</div>
+
+<h2>Enhance reader and editor functionality via on-wiki code</h2>
+
+Write code on wiki without using repositories or special server permissions.
+
+<div class="contentsection">
+<div class="contentbox">
+<h4>Avoid duplicated work with templates</h4>
+<div>
+<p>Use templates for standard text when you want to include it on multiple pages.
+</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Templates">mw:Help:Templates</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Explore commonly used templates</h4>
+<div>
+<p>Find the most popular templates used on Wikimedia sites.</p>
+<a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits/Starter_kit/Templates_and_Modules">m:Small wiki toolkits/Starter kit/Templates and Modules</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Write complex templates using the Lua scripting language</h4>
+<div>
+<p>Write Lua modules to simplify complex templates and handle string, mathematical and logical operations.
+</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Lua">mw:Lua</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Define CSS to load for a template</h4>
+<div>
+<p>Use TemplateStyles to define a stylesheet to load for a template on a wiki page.
+</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TemplateStyles">mw:Extension:TemplateStyles</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Change the behavior of the software with user scripts and gadgets</h4>
+<div>
+<p>Write JavaScript and save it on a wiki page to quickly enhance functionality.
+</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen">mw:Gadget kitchen</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Explore commonly used gadgets</h4>
+<div>
+<p>Find the most popular gadgets for Wikimedia sites.</p>
+<a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Gadgets">m:Gadgets</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Use and embed maps in Wikimedia wikis</h4>
+<div>
+<p>Create interactive dynamic maps with the Kartographer extension.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Extension:Kartographer">mw:Help:Extension:Kartographer</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Collaborate on crowdsourced Node.js and Python functions</h4>
+<div>
+<p>Use and write Node.js and Python code that can run on Wikipedia servers. <i>Wikifunctions</i> is intended to support the automatic generation of article text and data representation in every supported language.
+</p>
+<a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Abstract_Wikipedia">m:Abstract Wikipedia</a>
+</div></div>
+
+</div>
+
+<h2>Machine Learning and Natural Language Processing</h2>
+
+<div class="contentsection">
+<div class="contentbox">
+<h4>Help improve content quality on Wikimedia sites via machine learning</h4>
+<div>
+<p>Build and train machine learning models and infrastructure on Wikimedia sites.
+</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Machine_Learning">mw:Machine Learning</a>
+</div></div>
+</div>
+
+</div>
+
+<h1>Add, manage, and improve your content and structured data on Wikimedia sites</h1>
+
+Share data with the world, and make free knowledge more reliable and accessible.
+
+<h2>Donate institutional data to Wikidata and Wikimedia Commons</h2>
+
+<div class="contentsection">
+<div class="contentbox">
+<h4>Upload and manage the content of your gallery, library, archive, or museum (GLAM) on Wikimedia Commons</h4>
+<div>
+<p>Bulk-upload freely licensed media to Wikimedia Commons.</p>
+<a href="https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Pattypan">c:Commons:Pattypan</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Upload, manage, and reuse data in Wikidata</h4>
+<div>
+<p>Make your organization's public data available, and improve open knowledge.</p>
+<a href="https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_donation">d:Wikidata:Data donation</a>
+</div></div>
+
+</div>
+
+<h2>Use Structured Data with Wikidata and Wikibase</h2>
+
+<div class="contentsection">
+<div class="contentbox">
+<h4>Learn about Wikidata, the central knowledge base and storage for structured data in Wikimedia sites</h4>
+<div>
+<p>Explore Wikidata tutorials.</p>
+<a href="https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Training">d:Wikidata:Training</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Use structured data for multilingual and machine-readable information on Wikimedia Commons</h4>
+<div>
+<p>Make files on Wikimedia Commons easier to view, search, edit, organize, and re-use.</p>
+<a href="https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Structured_data">c:Commons:Structured data</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Search and extract data from Wikidata</h4>
+<div>
+<p>Learn how to search and extract data from Wikidata with SPARQL queries.</p>
+<a href="https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:SPARQL_query_service">d:Wikidata:SPARQL query service</a>
+</div></div>
+
+</div>
+
+</div>
+
+# Contribute to the MediaWiki software platform and stand-alone applications
+
+## Enhance the MediaWiki software platform
+
+Extend functionality of the MediaWiki core software via extensions, or change its appearance via skins.
+
+<div class="contentsection">
+<div class="contentbox">
+<h4>Learn how to develop MediaWiki code</h4>
+<div>
+<p>Build the basic skills you need to start developing MediaWiki core and MediaWiki extensions.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker">mw:How to become a MediaWiki hacker</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Key documents, resources, and tools for MediaWiki developers</h4>
+<div>
+<p>Find development policies, debugging, testing, architecture and subsystems, writing extensions, skins, and third-party libraries to use with MediaWiki.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_hub">mw:Developer hub</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Explore existing MediaWiki extensions</h4>
+<div>
+<p>Browse through existing extensions.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Category:Extensions">mw:Category:Extensions</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Explore existing MediaWiki extensions deployed on Wikimedia servers</h4>
+<div>
+<p>Find all extensions deployed on Wikimedia servers at a glance.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Category:Extensions_used_on_Wikimedia">mw:Category:Extensions used on Wikimedia</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Store, manage and access structured data with Wikibase</h4>
+<div>
+<p>Wikibase enables you to manage structured data in your own MediaWiki installation.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase">mw:Wikibase</a>
+</div></div>
+
+</div>
+
+## Improve page editing and help new Wikipedia editors
+
+<div class="contentsection">
+<div class="contentbox">
+<h4>Onboarding new editors on Wikimedia sites</h4>
+<div>
+<p>Help newcomer editors on Wikipedia sites in their first weeks.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Growth">mw:Growth</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Improve contributors' talk page experiences</h4>
+<div>
+<p>The talk pages project seeks to improve the experiences of individuals who use MediaWiki talk pages to communicate.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Talk_pages_project">mw:Talk pages project</a>
+</div></div>
+
+</div>
+
+## Contribute to native applications to edit, curate, and display Wikimedia content
+
+<div class="contentsection">
+<div class="contentbox">
+<h4>Contribute to mobile applications</h4>
+<div>
+<p>Access, edit, and upload to Wikimedia websites from your mobile device.</p>
+<ul><li>Mobile Commons Android app – <a href="https://commons-app.github.io/">commons-app.github.io</a></li>
+<li>Mobile Wikipedia KaiOS app – <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Wikipedia_for_KaiOS">mw:Wikipedia for KaiOS</a></li>
+<li>Mobile Wikipedia Android and iOS apps – <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Apps">mw:Wikimedia Apps</a></li>
+</ul>
+</div></div>
+
+<div class="contentbox">
+<h4>Contribute to offline applications</h4>
+<div>
+<p>Use software (such as <i>Kiwix</i>) to read Wikimedia content without having an internet connection.</p>
+<a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects">m:Offline Projects</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Contribute to desktop apps to save experienced Wikimedia editors' time</h4>
+<div>
+<p>Use local software to perform repetitive work as a Wikimedia editor.</p>
+<ul><li>Huggle – Deals with vandalism on Wikimedia projects – <a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Huggle">m:Huggle</a></li>
+<li>AutoWikiBrowser – A semi-automated editor to make repetitive editing tasks – <a href="https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser">w:en:Wikipedia:AutoWikiBrowser</a></li>
+<li>WPCleaner – Helps with various Wikipedia maintenance tasks – <a href="https://en.wikipedia.org/wiki/Wikipedia:WPCleaner">w:en:Wikipedia:WPCleaner</a></li>
+</ul>
+</div></div>
+
+</div>
+
+</div>
+
+# Get metrics and statistics about Wikimedia sites for research and decision-making
+
+Use and query metadata about Wikimedia sites to create insights and identify trends.
+
+<div class="contentsection">
+<div class="contentbox">
+<h4>Gather statistics about data and activity on Wikimedia sites</h4>
+<div>
+<p>Metrics and visualizations about reading, editing, and content on Wikimedia sites.</p>
+<a href="https://analytics.wikimedia.org/">analytics.wikimedia.org</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Perform data analytics on Wikimedia sites</h4>
+<div>
+<p>Make data informed decisions by querying Wikimedia's dataset systems.</p>
+<a href="https://wikitech.wikimedia.org/wiki/Analytics_Engineering">wikitech:Analytics Engineering</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Gather statistics on the performance of Wikimedia sites</h4>
+<div>
+<p>Find graphs about the performance of Wikimedia sites.</p>
+<a href="https://performance.wikimedia.org/">performance.wikimedia.org</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Access data services (Quarry, PAWS, Data dumps, etc) from your tool </h4>
+<div>
+<p>Access Wikimedia databases and dumps from your tool on Toolforge, as well as web interfaces for querying data stores.</p>
+<a href="https://wikitech.wikimedia.org/wiki/Portal:Data_Services">wikitech:Portal:Data Services</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Perform scientific research on Wikipedia and its sister projects for scientists and engineers</h4>
+<div>
+<p>Turn research questions about Wikimedia into public knowledge.</p>
+<a href="https://research.wikimedia.org/">research.wikimedia.org</a>
+</div></div>
+
+</div>
+
+</div>
+
+# Get started as a newcomer
+
+New to the Wikimedia movement? Get an overview, understand some development basics, and learn about our communities.
+
+<div class="contentsection">
+<div class="contentbox">
+<h4>Learn about Wikimedia's software projects and infrastructure</h4>
+<div>
+<p>Find out how to get started as a technical newcomer to Wikimedia.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers">mw:New Developers</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Connect with others in the Wikimedia community</h4>
+<div>
+<p>Find out where to talk to and collaborate with other contributors and how to find support.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Communication">mw:Communication</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Propose code changes and participate in code reviews</h4>
+<div>
+<p>Set up and use Gerrit, Wikimedia's collaborative code review system to submit patches for most projects.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial">mw:Gerrit/Tutorial</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Manage and plan software tasks, report bugs, and request new features</h4>
+<div>
+<p>Phabricator is used by Wikimedia technical contributors to collaboratively plan projects and track issues.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help">mw:Phabricator/Help</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Follow the Wikimedia Tech blog</h4>
+<div>
+<p>Read stories about Wikimedia's technologies and software development.</p>
+<a href="https://techblog.wikimedia.org/">techblog.wikimedia.org</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Find out about internships and outreach programs</h4>
+<div>
+<p>Wikimedia takes part in several internship and outreach programs. Find out how to participate.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs">mw:Outreach programs</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Join our Hackathons</h4>
+<div>
+<p>Meet other developers and work on software projects together.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons">mw:Hackathons</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Find code base maintainers and stewards</h4>
+<div>
+<p>Need to contact a code maintainer or steward? This is a list of teams who maintain MediaWiki core, key extensions, and Wikimedia servers.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers">mw:Developers/Maintainers</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Learn about the infrastructure that keeps Wikimedia sites up and running</h4>
+<div>
+<p>Learn about Wikimedia wikis, data centers, backups, CDN, and anything related to site reliability (SRE).</p>
+<a href="https://wikitech.wikimedia.org/wiki/Portal:Wikitech">wikitech:Portal:Wikitech</a>
+</div></div>
+
+</div>
+
+</div>
+
+# Create quality software
+
+Read about contribution standards and guidelines to make better software for everyone.
+
+<div class="contentsection">
+<div class="contentbox">
+<h4>Write performant code</h4>
+<div>
+<p>Learn about caching, backend and page load performance guidelines.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Performance_Team/Backend_performance">mw:Wikimedia Performance Team/Backend performance</a>
+</br></br>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Performance_Team/Page_load_performance">mw:Wikimedia Performance Team/Page load performance</a>
+</br></br>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Performance_tuning">mw:Manual:Performance tuning</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Write inclusive, accessible, barrier-free code</h4>
+<div>
+<p>Learn best practices for creating accessible code.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Accessibility_guide_for_developers">mw:Accessibility guide for developers</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Make sound technical decisions for software running on Wikimedia servers</h4>
+<div>
+<p>The Technical Forum connects teams to stakeholders with the WMF, affiliates and volunteer community to make sound technical decisions.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Decision_Making_Process/Technical_Forum">mw:Technical Decision Making Process/Technical Forum</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Write secure code</h4>
+<div>
+<p>Best practices and checklists to develop secure and robust code.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Security_for_developers">mw:Security for developers</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Contribute to technical documentation</h4>
+<div>
+<p>Explore style guides and resources for writing better technical documentation.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation">mw:Documentation</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Implement a consistent user experience</h4>
+<div>
+<p>The interactive Design Style Guide provides guidelines and best practices for designing Wikimedia products.</p>
+<a href="https://design.wikimedia.org/style-guide/">design.wikimedia.org/style-guide</a>
+</div></div>
+
+<div class="contentbox">
+<h4>Learn about localization and internationalization</h4>
+<div>
+<p>Make your MediaWiki code work with all human languages.</p>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation">mw:Localisation</a>
+</div></div>
+
+</div>
+
+</div>
+
+</div>
