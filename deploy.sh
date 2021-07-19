@@ -14,3 +14,6 @@ cp -r docs/src/.vuepress/dist/* .
 git add .
 git commit -m :shipit:
 git push origin gh-pages --force
+
+# Checkout the main branch again to avoid confusion
+git checkout main
