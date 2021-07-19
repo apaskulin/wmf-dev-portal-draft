@@ -7,9 +7,6 @@ git checkout -b gh-pages
 # Move the build files into the main directory
 cp -r docs/src/.vuepress/dist/* .
 
-# Remove the 404 page since it confuses GitHub Pages
-rm 404.html
-
 # Remove the extra files
 rm -r docs/*
 
