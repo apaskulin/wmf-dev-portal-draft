@@ -12,9 +12,9 @@ footer: A Wikimedia Foundation project
 
 <img style="float: right; padding-left:70px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/WP20Symbols_MediaWiki.svg" alt="Computer" width="220">
 
-# The foundation of free knowledge
+# Discover Wikimedia technical documentation and communities
 
-The developer portal is a place for you to learn about, interact with, and contribute to the open source technology that <a href src="https://wikimediafoundation.org/our-work/wikimedia-projects/">Wikimedia projects</a> are built upon.
+Learn about, interact with, and contribute to the open source technology that powers <a href="https://www.wikipedia.org/">Wikipedia</a> and other <a href="https://wikimediafoundation.org/our-work/wikimedia-projects/">Wikimedia projects</a>.
 
 <br>
 <br>
@@ -22,15 +22,15 @@ The developer portal is a place for you to learn about, interact with, and contr
 <div style="padding-top:25px;" class="contentsection">
 
 <div class="shadedbutton">
-<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="globe" width="25"><a href="https://api.wikimedia.org">Free knowledge APIs</a></p>
+<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Globe_font_awesome.svg" alt="globe" width="25px"><a href="https://api.wikimedia.org">Free knowledge APIs</a></p>
 </div>
 
 <div class="shadedbutton">
-<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Erlenmeyer_Flask_%2822794%29_-_The_Noun_Project.svg" alt="research" width="25"><a href="https://meta.wikimedia.org/wiki/Research:Data">Data and machine learning</a></p>
+<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/w" alt="research" width="25px"><a href="https://meta.wikimedia.org/wiki/Research:Data">Data and machine learning</a></p>
 </div>
 
 <div class="shadedbutton">
-<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Linecons_small-cloud.svg" alt="cloud" width="25px"><a href="https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction">Cloud services</a></p>
+<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Cloud_font_awesome.svg" alt="cloud" width="25px"><a href="https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction">Cloud services</a></p>
 </div>
 
 </div>
@@ -100,7 +100,7 @@ The developer portal is a place for you to learn about, interact with, and contr
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Development_guidelines">Development</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Development_guidelines">Development guidelines</a></h4>
 <div>
 <p>Understand best practices for writing code for Wikimedia projects</p>
 </div></div>
@@ -112,7 +112,7 @@ The developer portal is a place for you to learn about, interact with, and contr
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Localisation">Localisation</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Localisation">Localization</a></h4>
 <div>
 <p>Adapt code to different languages and regions</p>
 </div></div>
@@ -125,38 +125,40 @@ The developer portal is a place for you to learn about, interact with, and contr
 
 </div>
 
-<div style="background-color:#eaecf0; padding-left:20px; padding-top:10px;">
+<div style="margin-top:20px; background-color:#eaecf0; padding-left:30px; padding-top:1px;">
 
-## Featured projects
+<h2 style="padding-bottom:0; margin-bottom:0">Featured projects</h2>
 
 <div class="contentsection">
 
 <div class="contentbox">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/MediaWiki-2020-icon.svg" alt="mediaiki logo" width="40px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/MediaWiki-2020-icon.svg" alt="mediaiki logo" width="45px">
 <h4><a href="https://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a></h4>
-<p>The open source software that powers Wikipedia and its sister projects</p>
+<p>The collaborative editing engine that runs Wikipedia</p>
 </div>
 
 <div class="contentbox">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Wikipedia_W_favicon_on_white_background.png" alt="wikipedia w logo" width="40px">
-<h4><a href="https://meta.wikimedia.org/wiki/Wikimedia_Apps">Wikimedia apps</a></h4>
-<p>Android, IOS, and Windows apps for Wikimedia projects</p>
-</div>
-
-<div class="contentbox">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Offline_UG.svg" alt="wikitech logo" width="50px">
-<h4><a href="https://meta.wikimedia.org/wiki/Offline_Projects">Offline projects</a></h4>
-<p>Software, hardware, and apps for people without access to the internet</p>
-</div>
-
-<div class="contentbox">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Wikibase_logo.svg" alt="wikibase logo" width="60px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/WIKIBASE_RGB_PLAIN.svg" alt="wikibase logo" width="50px">
 <h4><a href="https://www.mediawiki.org/wiki/Wikibase">Wikibase</a></h4>
-<p>The software suite for managing linked open data that powers Wikidata</p>
+<p>The software suite that powers Wikidata</p>
+</div>
+
+<div class="contentbox">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/14/OOjs_UI_icon_logo-wikipedia.svg" alt="wikipedia w logo" width="40px">
+<h4><a href="https://meta.wikimedia.org/wiki/Wikimedia_Apps">Wikimedia apps</a></h4>
+<p>Mobile apps for Wikimedia projects</p>
+</div>
+
+<div class="contentbox">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Wikimedia_Community_Logo.svg" alt="wikitech logo" width="45px">
+<h4><a href="https://meta.wikimedia.org/wiki/Offline_Projects">Offline projects</a></h4>
+<p>Wikimedia apps for people without internet access</p>
 </div>
 
 </div>
 </div>
+
+<br>
 
 # Community
 
@@ -171,7 +173,7 @@ The developer portal is a place for you to learn about, interact with, and contr
 <div class="contentbox">
 <h4><a href="https://www.mediawiki.org/wiki/Communication">Communication</a></h4>
 <div>
-<p>Connect with other MediaWiki developers and users</p>
+<p>Connect with other MediaWiki developers</p>
 </div></div>
 
 <div class="contentbox">
@@ -183,7 +185,7 @@ The developer portal is a place for you to learn about, interact with, and contr
 <div class="contentbox">
 <h4><a href="https://www.mediawiki.org/wiki/Outreach_programs">Outreach programs</a></h4>
 <div>
-<p>Find out about technical internships and mentorships with Wikimedia</p>
+<p>Find out about internships and mentorship opportunities with Wikimedia</p>
 </div></div>
 
 <div class="contentbox">
@@ -197,9 +199,9 @@ The developer portal is a place for you to learn about, interact with, and contr
 
 </div>
 
-<div style="background-color:#eaecf0; padding-left:20px; padding-top:10px;">
+<div style="margin-top:20px; background-color:#eaecf0; padding-left:30px; padding-top:1px;">
 
-## Latest updates
+<h2 style="padding-bottom:0; margin-bottom:0">Latest updates</h2>
 
 <div class="contentsection">
 
@@ -211,43 +213,57 @@ The developer portal is a place for you to learn about, interact with, and contr
 </div></div>
 
 <div class="contentbox">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Oxygen480-categories-hidef-preferences-system.svg" alt="icon" width="40px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/OOjs_UI_icon_bell.svg" alt="icon" width="30px">
 <h4><a href="https://meta.wikimedia.org/wiki/Tech/News ">Tech news</a></h4>
 <div>
 <p>Weekly summary of technical topics for Wikimedians</p>
 </div></div>
 
 <div class="contentbox">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/News_-_The_Noun_Project.svg" alt="icon" width="40px">
+<img style="padding-bottom: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/OOjs_UI_icon_alignLeft.svg" alt="icon" width="32px">
 <h4><a href="https://www.mediawiki.org/wiki/Technical_Community_Newsletter ">Technical community newsletter</a></h4>
 <div>
 <p>Quarterly updates on activities in the Wikimedia technical community</p>
 </div></div>
 
 <div class="contentbox">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Diversity_icon_green.svg" alt="icon" width="50px">
+<img style="padding-bottom: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/4/40/OOjs_UI_icon_speechBubbles-ltr.svg" alt="icon" width="30px">
 <h4><a href="https://www.mediawiki.org/wiki/Wikimedia_Technical_Talks">Tech talks</a></h4>
 <div>
-<p>Presentations created by and for members of the Wikimedia technical community</p>
+<p>Presentations created by and for the Wikimedia technical community</p>
 </div></div>
 
 </div>
 </div>
 
+<br>
+
 # Wikimedia Foundation technical operations
+
+<div class="contentsection">
+
+<div class="shadedbutton">
+<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/9/98/OOjs_UI_icon_userAvatar.svg" alt="icon" width="25px"><a href="https://www.mediawiki.org/wiki/Wikimedia_Technology">Browse teams</a></p>
+</div>
+
+<div class="shadedbutton">
+<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/OOjs_UI_icon_lightbulb.svg" alt="icon" width="25px"><a href="https://www.mediawiki.org/wiki/Category:WMF_Projects">Browse projects</a></p>
+</div>
+
+</div>
 
 <div class="contentsection">
 
 <div class="contentbox">
 <h4><a href="https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure">Infrastructure</a></h4>
 <div>
-<p>Learn about networking, servers, services, operations, etc.</p>
+<p>Learn about the infrastructure behind Wikimedia projects</p>
 </div></div>
 
 <div class="contentbox">
 <h4><a href="https://wikitech.wikimedia.org/wiki/Deployments">Deployment</a></h4>
 <div>
-<p>Track software deployments to the Wikimedia Foundation servers</p>
+<p>Track software deployments to Wikimedia Foundation servers</p>
 </div></div>
 
 <div class="contentbox">
@@ -277,7 +293,7 @@ The developer portal is a place for you to learn about, interact with, and contr
 <div class="contentbox">
 <h4><a href="https://www.mediawiki.org/wiki/Developers/Maintainers">Code stewardship</a></h4>
 <div>
-<p>Find out who maintains MediaWiki core, key extensions, and servers</p>
+<p>Find maintainers and code stewards for Wikimedia open source projects</p>
 </div></div>
 
 <div class="contentbox">
@@ -291,16 +307,4 @@ The developer portal is a place for you to learn about, interact with, and contr
 
 </div>
 
-<div style="padding-top:25px;" class="contentsection">
-
-<div class="shadedbutton">
-<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Noun_project_organization_icon.svg" alt="icon" width="25"><a href="https://www.mediawiki.org/wiki/Wikimedia_Technology">Browse teams</a></p>
-</div>
-
-<div class="shadedbutton">
-<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Rocket_ship_%28456769%29_-_The_Noun_Project.svg" alt="icon" width="25"><a href="https://www.mediawiki.org/wiki/Category:WMF_Projects">Browse projects</a></p>
-</div>
-
-</div>
-
-<br><br>
+<br>
