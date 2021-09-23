@@ -12,9 +12,12 @@ footer: A Wikimedia Foundation project
 
 <img style="float: right; padding-left:70px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/WP20Symbols_MediaWiki.svg" alt="Computer" width="220">
 
-# Discover Wikimedia technical documentation and communities
+# The foundation of free knowledge
 
-Wikimedia is a global movement with a mission to bring free knowledge to the world. We build and use free and open software to make it easy to read, edit, and share from the Wikimedia sites.
+The developer portal is a place for you to learn about, interact with, and contribute to the open source technology that <a href src="https://wikimediafoundation.org/our-work/wikimedia-projects/">Wikimedia projects</a> are built upon.
+
+<br>
+<br>
 
 <div style="padding-top:25px;" class="contentsection">
 
@@ -43,27 +46,27 @@ Wikimedia is a global movement with a mission to bring free knowledge to the wor
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Toolhub_community_logo.svg" alt="toolhub logo" width="50px">
 <h4><a href="https://toolhub-demo.wmcloud.org/">Discover tools</a></h4>
 <div>
-<p>Find and share tools from the community on Toolhub</p>
+<p>Find and share tools on Toolhub</p>
 </div></div>
 
 <div class="contentbox">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Small_wiki_toolkits_project_logo.svg" alt="small wiki toolkits logo" width="50px">
 <h4><a href="https://meta.wikimedia.org/wiki/Small_wiki_toolkits">Toolkits for small wikis</a></h4>
 <div>
-<p>Power up your small wiki with these resources</p>
+<p>Grow the technical capacity of your smaller language wiki</p>
 </div></div>
 
 <div class="contentbox">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Toolforge_logo.svg" alt="toolforge logo" width="50px">
 <h4><a href="https://wikitech.wikimedia.org/wiki/Portal:Toolforge">Cloud hosting for tools</a></h4>
 <div>
-<p>Host your tool in the Wikimedia Toolforge cloud</p>
+<p>Host your tools with Toolforge</p>
 </div></div>
 
 <div class="contentbox">
 <h4><a href="https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools">Build a tool</a></h4>
 <div>
-<p>Create tools that support Wikimedia projects and editors</p>
+<p>Develop tools that improve Wikimedia projects</p>
 </div></div>
 
 <div class="contentbox">
@@ -75,7 +78,7 @@ Wikimedia is a global movement with a mission to bring free knowledge to the wor
 <div class="contentbox">
 <h4><a href="https://www.mediawiki.org/wiki/Good_first_bugs">Contribute to tools</a></h4>
 <div>
-<p>Find good first tasks for contributing to open source tools</p>
+<p>Start contributing code with these good first tasks</p>
 </div></div>
 
 </div>
@@ -91,33 +94,33 @@ Wikimedia is a global movement with a mission to bring free knowledge to the wor
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/How_to_contribute">Contributing</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/How_to_contribute">Contribute</a></h4>
 <div>
-<p>Contribute to Wikimedia open source projects</p>
+<p>Share your coding skills and learn from others</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Development_guidelines">Development guidelines</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Development_guidelines">Development</a></h4>
 <div>
-<p>Best practices for writing code for Wikimedia open source projects</p>
+<p>Understand best practices for writing code for Wikimedia projects</p>
 </div></div>
 
 <div class="contentbox">
 <h4><a href="https://www.mediawiki.org/wiki/Documentation">Documentation</a></h4>
 <div>
-<p>Resources for writing and maintaining technical docs</p>
+<p>Find resources for writing and maintaining technical docs</p>
 </div></div>
 
 <div class="contentbox">
 <h4><a href="https://www.mediawiki.org/wiki/Localisation">Localisation</a></h4>
 <div>
-<p>Create tools that support Wikimedia projects and editors</p>
+<p>Adapt code to different languages and regions</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Accessibility_guide_for_developers">Accessibility</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Accessibility_guide_for_developers">Accessibility </a></h4>
 <div>
-<p>Accessibility guide for developers</p>
+<p>Develop software that can be used by everyone</p>
 </div></div>
 
 </div>
@@ -131,25 +134,25 @@ Wikimedia is a global movement with a mission to bring free knowledge to the wor
 <div class="contentbox">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/MediaWiki-2020-icon.svg" alt="mediaiki logo" width="40px">
 <h4><a href="https://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a></h4>
-<p>The collaborative editing engine that runs Wikipedia</p>
+<p>The open source software that powers Wikipedia and its sister projects</p>
 </div>
 
 <div class="contentbox">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Wikipedia_W_favicon_on_white_background.png" alt="wikipedia w logo" width="40px">
-<h4><a href="https://meta.wikimedia.org/wiki/Wikimedia_Apps">Apps</a></h4>
-<p>Mobile apps for Wikimedia projects</p>
+<h4><a href="https://meta.wikimedia.org/wiki/Wikimedia_Apps">Wikimedia apps</a></h4>
+<p>Android, IOS, and Windows apps for Wikimedia projects</p>
 </div>
 
 <div class="contentbox">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Offline_UG.svg" alt="wikitech logo" width="50px">
 <h4><a href="https://meta.wikimedia.org/wiki/Offline_Projects">Offline projects</a></h4>
-<p>Offline apps for reading Wikimedia projects</p>
+<p>Software, hardware, and apps for people without access to the internet</p>
 </div>
 
 <div class="contentbox">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Wikibase_logo.svg" alt="wikibase logo" width="60px">
 <h4><a href="https://www.mediawiki.org/wiki/Wikibase">Wikibase</a></h4>
-<p>The knowledge base for linked open data that runs Wikidata</p>
+<p>The software suite for managing linked open data that powers Wikidata</p>
 </div>
 
 </div>
@@ -162,31 +165,31 @@ Wikimedia is a global movement with a mission to bring free knowledge to the wor
 <div class="contentbox">
 <h4><a href="https://www.mediawiki.org/wiki/Code_of_Conduct">Code of conduct</a></h4>
 <div>
-<p>fostering an open and welcoming community</p>
+<p>Understand the principles we follow to foster a welcoming community</p>
 </div></div>
 
 <div class="contentbox">
 <h4><a href="https://www.mediawiki.org/wiki/Communication">Communication</a></h4>
 <div>
-<p>Get in contact with other MediaWiki users and developers</p>
+<p>Connect with other MediaWiki developers and users</p>
 </div></div>
 
 <div class="contentbox">
 <h4><a href="https://www.mediawiki.org/wiki/Hackathons">Hackathons</a></h4>
 <div>
-<p>Join an upcoming hackathon event</p>
+<p>Explore content from past hackathons or join us for an upcoming one</p>
 </div></div>
 
 <div class="contentbox">
 <h4><a href="https://www.mediawiki.org/wiki/Outreach_programs">Outreach programs</a></h4>
 <div>
-<p>Wikimedia's technical community participates in several outreach programs</p>
+<p>Find out about technical internships and mentorships with Wikimedia</p>
 </div></div>
 
 <div class="contentbox">
 <h4><a href="https://meta.wikimedia.org/wiki/Grants:Start">Grants</a></h4>
 <div>
-<p>Fund for improving technology, tools, and research to nurture a more responsive and accessible environment for contributions</p>
+<p>Apply for a grant to improve software or conduct research</p>
 </div></div>
 
 <div class="contentbox">
@@ -238,49 +241,49 @@ Wikimedia is a global movement with a mission to bring free knowledge to the wor
 <div class="contentbox">
 <h4><a href="https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure">Infrastructure</a></h4>
 <div>
-<p>Infrastructure documentation</p>
+<p>Learn about networking, servers, services, operations, etc.</p>
 </div></div>
 
 <div class="contentbox">
 <h4><a href="https://wikitech.wikimedia.org/wiki/Deployments">Deployment</a></h4>
 <div>
-<p>Deployment processes</p>
+<p>Track software deployments to the Wikimedia Foundation servers</p>
 </div></div>
 
 <div class="contentbox">
 <h4><a href="https://performance.wikimedia.org/">Performance</a></h4>
 <div>
-<p>Site performance</p>
+<p>Monitor the current and past performance of Wikimedia sites</p>
 </div></div>
 
 <div class="contentbox">
 <h4><a href="https://www.mediawiki.org/wiki/Security">Security</a></h4>
 <div>
-<p>Wikimedia security</p>
+<p>Read security policies for the MediaWiki platform and the Wikimedia Foundation</p>
 </div></div>
 
 <div class="contentbox">
 <h4><a href="https://www.mediawiki.org/wiki/Architecture_Repository">Architecture</a></h4>
 <div>
-<p>System architecture documentation</p>
+<p>Explore system architecture documentation</p>
 </div></div>
 
 <div class="contentbox">
 <h4><a href="https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction ">Cloud services</a></h4>
 <div>
-<p>Wikimedia cloud hosting</p>
+<p>Find tools, services, and support for your technical contributions</p>
 </div></div>
 
 <div class="contentbox">
 <h4><a href="https://www.mediawiki.org/wiki/Developers/Maintainers">Code stewardship</a></h4>
 <div>
-<p>Code stewards and maintainers</p>
+<p>Find out who maintains MediaWiki core, key extensions, and servers</p>
 </div></div>
 
 <div class="contentbox">
 <h4><a href="https://www.mediawiki.org/wiki/Technical_Decision_Forum/Technical_Decision_Making_Process">Technical decision records</a></h4>
 <div>
-<p>Technical decision making process</p>
+<p>Learn about why and how technical decisions are made</p>
 </div></div>
 
 <div class="contentbox">
