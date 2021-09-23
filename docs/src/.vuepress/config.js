@@ -45,7 +45,13 @@ module.exports = {
         text: 'Code search',
         link: 'https://codesearch.wmcloud.org/search'
       }
-    ]
+    ],
+    sidebar: {
+      '/about/': [
+        '',
+        'images'
+      ]
+    }
   },
 
   /**
