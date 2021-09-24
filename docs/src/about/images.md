@@ -1,6 +1,6 @@
 # Image credits
 
-All images are via [Wikimedia Commons]()
+All images are via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 
 ### [Font Awesome](https://fortawesome.github.com/Font-Awesome) by Dave Gandy, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
 
@@ -50,3 +50,7 @@ All images are via [Wikimedia Commons]()
 ### By [WMF User Experience Design group](https://www.mediawiki.org/wiki/Design), [MIT license](https://commons.wikimedia.org/wiki/Category:Expat/MIT_License)
 
 * [OOjs UI icon userAvatar](https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_userAvatar.svg)
+
+### By [Neolux](https://en.wikipedia.org/wiki/User_talk:Neolux), public domain
+
+* [Wikimedia logo black](https://commons.wikimedia.org/wiki/File:Wikimedia-logo_black.svg), a trademark of the [Wikimedia Foundation](https://foundation.wikimedia.org/wiki/Trademark_policy)
