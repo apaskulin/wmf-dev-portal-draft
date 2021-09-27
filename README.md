@@ -14,16 +14,10 @@ Visit http://localhost:8080 to view the local server.
 
 ## Deploy the site
 
-From the docs directory, run:
-
-```
-npm run build
-```
-
-Once the build files are generated, commit the changes to the main branch.
-
-Once you've built the site and committed your changes, deploy the site to GitHub pages by running:
+From the main project directory, run the deploy script to deploy the main branch to GitHub pages:
 
 ```
 bash deploy.sh
 ```
+
+If you get a `No such file` error, make sure you are in the main project directory, not in `/docs`.
