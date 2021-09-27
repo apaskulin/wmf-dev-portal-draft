@@ -14,7 +14,7 @@ footer: A Wikimedia Foundation project
 
 # Discover Wikimedia technical documentation and communities
 
-Learn about, interact with, and contribute to the open source technology that powers <a href="https://www.wikipedia.org/">Wikipedia</a> and other <a href="https://wikimediafoundation.org/our-work/wikimedia-projects/">Wikimedia projects</a>.
+Learn about, interact with, and contribute to the open source technology that powers <a href="https://www.wikipedia.org/" target="_blank" rel="noopener noreferrer">Wikipedia</a> and other <a href="https://wikimediafoundation.org/our-work/wikimedia-projects/" target="_blank" rel="noopener noreferrer">Wikimedia projects</a>.
 
 <br>
 <br>
@@ -22,15 +22,15 @@ Learn about, interact with, and contribute to the open source technology that po
 <div style="padding-top:25px;" class="contentsection">
 
 <div class="shadedbutton">
-<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Globe_font_awesome.svg" alt="globe" width="25px"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page">Free knowledge APIs</a></p>
+<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Globe_font_awesome.svg" alt="globe" width="25px"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page" target="_blank" rel="noopener noreferrer">Free knowledge APIs</a></p>
 </div>
 
 <div class="shadedbutton">
-<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Beaker_font_awesome.svg" alt="research" width="25px"><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data">Data and machine learning</a></p>
+<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Beaker_font_awesome.svg" alt="research" width="25px"><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data" target="_blank" rel="noopener noreferrer">Data and machine learning</a></p>
 </div>
 
 <div class="shadedbutton">
-<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Cloud_font_awesome.svg" alt="cloud" width="25px"><a href="https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction">Cloud services</a></p>
+<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Cloud_font_awesome.svg" alt="cloud" width="25px"><a href="https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction" target="_blank" rel="noopener noreferrer">Cloud services</a></p>
 </div>
 
 </div>
@@ -44,39 +44,39 @@ Learn about, interact with, and contribute to the open source technology that po
 
 <div class="contentbox">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Toolhub_community_logo.svg" alt="toolhub logo" width="50px">
-<h4><a href="https://toolhub-demo.wmcloud.org/">Discover tools</a></h4>
+<h4><a href="https://toolhub-demo.wmcloud.org/" target="_blank" rel="noopener noreferrer">Discover tools</a></h4>
 <div>
 <p>Find and share tools on Toolhub</p>
 </div></div>
 
 <div class="contentbox">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Small_wiki_toolkits_project_logo.svg" alt="small wiki toolkits logo" width="50px">
-<h4><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits">Toolkits for small wikis</a></h4>
+<h4><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits" target="_blank" rel="noopener noreferrer">Toolkits for small wikis</a></h4>
 <div>
 <p>Grow the technical capacity of your smaller language wiki</p>
 </div></div>
 
 <div class="contentbox">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Toolforge_logo.svg" alt="toolforge logo" width="50px">
-<h4><a href="https://wikitech.wikimedia.org/wiki/Portal:Toolforge">Cloud hosting for tools</a></h4>
+<h4><a href="https://wikitech.wikimedia.org/wiki/Portal:Toolforge" target="_blank" rel="noopener noreferrer">Cloud hosting for tools</a></h4>
 <div>
 <p>Host your tools with Toolforge</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools">Build a tool</a></h4>
+<h4><a href="https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools" target="_blank" rel="noopener noreferrer">Build a tool</a></h4>
 <div>
 <p>Develop tools that improve Wikimedia projects</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot">Build a bot</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot" target="_blank" rel="noopener noreferrer">Build a bot</a></h4>
 <div>
 <p>Create bots that automate editing and wiki maintenance</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Good_first_bugs">Contribute to tools</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Good_first_bugs" target="_blank" rel="noopener noreferrer">Contribute to tools</a></h4>
 <div>
 <p>Start contributing code with these good first tasks</p>
 </div></div>
@@ -88,37 +88,37 @@ Learn about, interact with, and contribute to the open source technology that po
 <div class="contentsection">
 
 <div class="contentbox">
-<h4><a href="https://doc.wikimedia.org/">Browse projects</a></h4>
+<h4><a href="https://doc.wikimedia.org/" target="_blank" rel="noopener noreferrer">Browse projects</a></h4>
 <div>
 <p>Explore Wikimedia open source projects</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Contribute</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute" target="_blank" rel="noopener noreferrer">Contribute</a></h4>
 <div>
 <p>Share your coding skills and learn from others</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines">Development guidelines</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines" target="_blank" rel="noopener noreferrer">Development guidelines</a></h4>
 <div>
 <p>Understand best practices for writing code for Wikimedia projects</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation">Documentation</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation" target="_blank" rel="noopener noreferrer">Documentation</a></h4>
 <div>
 <p>Find resources for writing and maintaining technical docs</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation">Localization</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation" target="_blank" rel="noopener noreferrer">Localization</a></h4>
 <div>
 <p>Adapt code to different languages and regions</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Accessibility_guide_for_developers">Accessibility </a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Accessibility_guide_for_developers" target="_blank" rel="noopener noreferrer">Accessibility </a></h4>
 <div>
 <p>Develop software that can be used by everyone</p>
 </div></div>
@@ -133,25 +133,25 @@ Learn about, interact with, and contribute to the open source technology that po
 
 <div class="contentbox">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/MediaWiki-2020-icon.svg" alt="mediaiki logo" width="45px">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/MediaWiki">MediaWiki</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/MediaWiki" target="_blank" rel="noopener noreferrer">MediaWiki</a></h4>
 <p>The collaborative editing engine that runs Wikipedia</p>
 </div>
 
 <div class="contentbox">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/WIKIBASE_RGB_PLAIN.svg" alt="wikibase logo" width="50px">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase">Wikibase</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase" target="_blank" rel="noopener noreferrer">Wikibase</a></h4>
 <p>The software suite that powers Wikidata</p>
 </div>
 
 <div class="contentbox">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/OOjs_UI_icon_logo-wikipedia.svg" alt="wikipedia w logo" width="40px">
-<h4><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps">Wikimedia apps</a></h4>
+<h4><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps" target="_blank" rel="noopener noreferrer">Wikimedia apps</a></h4>
 <p>Mobile apps for Wikimedia projects</p>
 </div>
 
 <div class="contentbox">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Wikimedia_Community_Logo.svg" alt="wikitech logo" width="45px">
-<h4><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects">Offline projects</a></h4>
+<h4><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects" target="_blank" rel="noopener noreferrer">Offline projects</a></h4>
 <p>Wikimedia apps for people without internet access</p>
 </div>
 
@@ -165,31 +165,31 @@ Learn about, interact with, and contribute to the open source technology that po
 <div class="contentsection">
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct">Code of conduct</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct" target="_blank" rel="noopener noreferrer">Code of conduct</a></h4>
 <div>
 <p>Understand the principles we follow to foster a welcoming community</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Communication">Communication</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Communication" target="_blank" rel="noopener noreferrer">Communication</a></h4>
 <div>
 <p>Connect with other MediaWiki developers</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons">Hackathons</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons" target="_blank" rel="noopener noreferrer">Hackathons</a></h4>
 <div>
 <p>Explore content from past hackathons or join us for an upcoming one</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs">Outreach programs</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs" target="_blank" rel="noopener noreferrer">Outreach programs</a></h4>
 <div>
 <p>Find out about internships and mentorship opportunities with Wikimedia</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Grants:Start">Grants</a></h4>
+<h4><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Grants:Start" target="_blank" rel="noopener noreferrer">Grants</a></h4>
 <div>
 <p>Apply for a grant to improve software or conduct research</p>
 </div></div>
@@ -207,28 +207,28 @@ Learn about, interact with, and contribute to the open source technology that po
 
 <div class="contentbox">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Wiki-tech-logo-hub.svg" alt="icon" width="40px">
-<h4><a href="https://techblog.wikimedia.org/">Tech blog</a></h4>
+<h4><a href="https://techblog.wikimedia.org/" target="_blank" rel="noopener noreferrer">Tech blog</a></h4>
 <div>
 <p>Blog posts from the Wikimedia technical community</p>
 </div></div>
 
 <div class="contentbox">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/OOjs_UI_icon_bell.svg" alt="icon" width="30px">
-<h4><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News ">Tech news</a></h4>
+<h4><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News " target="_blank" rel="noopener noreferrer">Tech news</a></h4>
 <div>
 <p>Weekly summary of technical topics for Wikimedians</p>
 </div></div>
 
 <div class="contentbox">
 <img style="padding-bottom: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/OOjs_UI_icon_alignLeft.svg" alt="icon" width="32px">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter ">Technical community newsletter</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter " target="_blank" rel="noopener noreferrer">Technical community newsletter</a></h4>
 <div>
 <p>Quarterly updates on activities in the Wikimedia technical community</p>
 </div></div>
 
 <div class="contentbox">
 <img style="padding-bottom: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/4/40/OOjs_UI_icon_speechBubbles-ltr.svg" alt="icon" width="30px">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Technical_Talks">Tech talks</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Technical_Talks" target="_blank" rel="noopener noreferrer"> Tech talks</a></h4>
 <div>
 <p>Presentations created by and for the Wikimedia technical community</p>
 </div></div>
@@ -243,11 +243,11 @@ Learn about, interact with, and contribute to the open source technology that po
 <div class="contentsection">
 
 <div class="shadedbutton">
-<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/9/98/OOjs_UI_icon_userAvatar.svg" alt="icon" width="25px"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Technology">Browse teams</a></p>
+<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/9/98/OOjs_UI_icon_userAvatar.svg" alt="icon" width="25px"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Technology" target="_blank" rel="noopener noreferrer">Browse teams</a></p>
 </div>
 
 <div class="shadedbutton">
-<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/OOjs_UI_icon_lightbulb.svg" alt="icon" width="25px"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Category:WMF_Projects">Browse projects</a></p>
+<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/OOjs_UI_icon_lightbulb.svg" alt="icon" width="25px"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Category:WMF_Projects" target="_blank" rel="noopener noreferrer">Browse projects</a></p>
 </div>
 
 </div>
@@ -255,49 +255,49 @@ Learn about, interact with, and contribute to the open source technology that po
 <div class="contentsection">
 
 <div class="contentbox">
-<h4><a href="https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure">Infrastructure</a></h4>
+<h4><a href="https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure" target="_blank" rel="noopener noreferrer">Infrastructure</a></h4>
 <div>
 <p>Learn about the infrastructure behind Wikimedia projects</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://wikitech.wikimedia.org/wiki/Deployments">Deployment</a></h4>
+<h4><a href="https://wikitech.wikimedia.org/wiki/Deployments" target="_blank" rel="noopener noreferrer">Deployment</a></h4>
 <div>
 <p>Track software deployments to Wikimedia Foundation servers</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://performance.wikimedia.org/">Performance</a></h4>
+<h4><a href="https://performance.wikimedia.org/" target="_blank" rel="noopener noreferrer">Performance</a></h4>
 <div>
 <p>Monitor the current and past performance of Wikimedia sites</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Security">Security</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Security" target="_blank" rel="noopener noreferrer">Security</a></h4>
 <div>
 <p>Read security policies for the MediaWiki platform and the Wikimedia Foundation</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Architecture_Repository">Architecture</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Architecture_Repository" target="_blank" rel="noopener noreferrer">Architecture</a></h4>
 <div>
 <p>Explore system architecture documentation</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction ">Cloud services</a></h4>
+<h4><a href="https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction " target="_blank" rel="noopener noreferrer">Cloud services</a></h4>
 <div>
 <p>Find tools, services, and support for your technical contributions</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers">Code stewardship</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers" target="_blank" rel="noopener noreferrer">Code stewardship</a></h4>
 <div>
 <p>Find maintainers and code stewards for Wikimedia open source projects</p>
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Decision_Forum/Technical_Decision_Making_Process">Technical decision records</a></h4>
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Decision_Forum/Technical_Decision_Making_Process" target="_blank" rel="noopener noreferrer">Technical decision records</a></h4>
 <div>
 <p>Learn about why and how technical decisions are made</p>
 </div></div>
