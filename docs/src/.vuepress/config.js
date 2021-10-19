@@ -43,7 +43,7 @@ module.exports = {
         link: '/contribute/'
       },
       {
-        text: 'Code search',
+        text: 'Search codebases',
         link: 'https://codesearch.wmcloud.org/search'
       }
     ],
