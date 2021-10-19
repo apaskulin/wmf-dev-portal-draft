@@ -52,7 +52,8 @@ module.exports = {
         '',
         'images'
       ]
-    }
+    },
+    search: false,
   },
 
   /**
