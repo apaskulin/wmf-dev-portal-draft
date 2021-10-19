@@ -76,21 +76,18 @@ Learn about, interact with, and contribute to the open source technology that po
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Good_first_bugs" target="_blank" rel="noopener noreferrer">Contribute to tools</a></h4>
-<div>
-<p>Start contributing code with these good first tasks</p>
-</div></div>
+</div>
 
 </div>
 
-# Wikimedia open source
+# Contribute to Wikimedia open source
 
 <div class="contentsection">
 
 <div class="contentbox">
-<h4><a href="https://doc.wikimedia.org/" target="_blank" rel="noopener noreferrer">Browse projects</a></h4>
+<h4><a href="https://doc.wikimedia.org/" target="_blank" rel="noopener noreferrer">Browse codebases</a></h4>
 <div>
-<p>Explore Wikimedia open source projects</p>
+<p>Explore Wikimedia open source codebases</p>
 </div></div>
 
 <div class="contentbox">
@@ -127,7 +124,7 @@ Learn about, interact with, and contribute to the open source technology that po
 
 <div style="margin-top:20px; background-color:#eaecf0; padding-left:30px; padding-top:1px;">
 
-<h2 style="padding-bottom:0; margin-bottom:0">Featured projects</h2>
+<h2 style="padding-bottom:0; margin-bottom:0">Featured software</h2>
 
 <div class="contentsection">
 
@@ -151,7 +148,7 @@ Learn about, interact with, and contribute to the open source technology that po
 
 <div class="contentbox">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Wikimedia_Community_Logo.svg" alt="wikitech logo" width="45px">
-<h4><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects" target="_blank" rel="noopener noreferrer">Offline projects</a></h4>
+<h4><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects" target="_blank" rel="noopener noreferrer">Offline tools</a></h4>
 <p>Wikimedia apps for people without internet access</p>
 </div>
 
@@ -171,12 +168,6 @@ Learn about, interact with, and contribute to the open source technology that po
 </div></div>
 
 <div class="contentbox">
-<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Communication" target="_blank" rel="noopener noreferrer">Communication</a></h4>
-<div>
-<p>Connect with other MediaWiki developers</p>
-</div></div>
-
-<div class="contentbox">
 <h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons" target="_blank" rel="noopener noreferrer">Hackathons</a></h4>
 <div>
 <p>Explore content from past hackathons or join us for an upcoming one</p>
@@ -192,6 +183,12 @@ Learn about, interact with, and contribute to the open source technology that po
 <h4><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Grants:Start" target="_blank" rel="noopener noreferrer">Grants</a></h4>
 <div>
 <p>Apply for a grant to improve software or conduct research</p>
+</div></div>
+
+<div class="contentbox">
+<h4><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Communication" target="_blank" rel="noopener noreferrer">Support and contact</a></h4>
+<div>
+<p>Connect with Wikimedia developers</p>
 </div></div>
 
 <div class="contentbox">
@@ -247,7 +244,7 @@ Learn about, interact with, and contribute to the open source technology that po
 </div>
 
 <div class="shadedbutton">
-<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/OOjs_UI_icon_lightbulb.svg" alt="icon" width="25px"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Category:WMF_Projects" target="_blank" rel="noopener noreferrer">Browse projects</a></p>
+<p><img style="float: left; padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/OOjs_UI_icon_lightbulb.svg" alt="icon" width="25px"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Category:WMF_Projects" target="_blank" rel="noopener noreferrer">Browse initiatives</a></p>
 </div>
 
 </div>
