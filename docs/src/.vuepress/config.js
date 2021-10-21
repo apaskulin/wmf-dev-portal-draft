@@ -51,6 +51,10 @@ module.exports = {
       '/about/': [
         '',
         'images'
+      ],
+      '/history/v2/api/': [
+        '',
+        'reading'
       ]
     },
     search: false,
