@@ -34,7 +34,7 @@ Public API access to content from Wikipedia and other free knowledge projects
 
 Access public data for Wikipedia and get datasets for machine learning
 
-[Learn more](...)
+Learn more
 
 <br>
 
@@ -44,7 +44,7 @@ Access public data for Wikipedia and get datasets for machine learning
 
 Develop tools that improve Wikimedia projects
 
-[Learn more](...)
+Learn more
 
 <br>
 
@@ -54,7 +54,7 @@ Develop tools that improve Wikimedia projects
 
 Help build the Wikimedia ecosystem with open source software projects
 
-[Learn more](...)
+Learn more
 
 <br>
 
@@ -64,7 +64,7 @@ Help build the Wikimedia ecosystem with open source software projects
 
 Join the Wikimedia technical community
 
-[Learn more](...)
+Learn more
 
 <br>
 
@@ -74,6 +74,6 @@ Join the Wikimedia technical community
 
 Learn about how Wikimedia infrastructure and process works
 
-[Learn more](...)
+Learn more
 
 <br>
