@@ -1,3 +1,7 @@
+---
+pageClass: custom-page-class
+---
+
 # Image credits
 
 All images are via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
@@ -54,3 +58,7 @@ All images are via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_P
 ### By [Neolux](https://en.wikipedia.org/wiki/User_talk:Neolux), public domain
 
 * [Wikimedia logo black](https://commons.wikimedia.org/wiki/File:Wikimedia-logo_black.svg), a trademark of the [Wikimedia Foundation](https://foundation.wikimedia.org/wiki/Trademark_policy)
+
+### Illustrated by Jasmina El Bouamraoui and Karabo Poppy Moletsane, public domain
+
+* Images from [Wikipedia 20 collection](https://commons.wikimedia.org/wiki/Wikipedia_20)

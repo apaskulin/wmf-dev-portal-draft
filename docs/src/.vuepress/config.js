@@ -35,24 +35,37 @@ module.exports = {
     logo: '/logo.svg',
     nav: [
       {
-        text: 'About',
-        link: '/about/',
+        text: 'APIs',
+        link: '/api/'
+      },
+      {
+        text: 'Tools',
+        link: '/tools/'
       },
       {
         text: 'Contribute',
         link: '/contribute/'
       },
       {
-        text: 'Search codebases',
-        link: 'https://codesearch.wmcloud.org/search'
+        text: 'Operations',
+        link: '/operations/'
+      },
+      {
+        text: 'Community',
+        link: '/community/'
+      },
+      {
+        text: 'About',
+        link: '/about/',
       }
     ],
     sidebar: {
       '/about/': [
         '',
+        'contributing',
         'images'
       ],
-      '/history/v2/api/': [
+      '/api/': [
         '',
         'reading'
       ]

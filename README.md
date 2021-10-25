@@ -1,7 +1,13 @@
 # wmf-dev-portal-draft
 Working content draft for the Wikimedia Developer Portal, available at [apaskulin.github.io/wmf-dev-portal-draft](https://apaskulin.github.io/wmf-dev-portal-draft/)
 
+## History
+
+To see previous iterations of the site, visit the [history page](https://apaskulin.github.io/wmf-dev-portal-draft/history/).
+
+
 ## Test changes locally
+
 After [cloning the repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository), use npm to run the VuePress development server:
 
 ```
