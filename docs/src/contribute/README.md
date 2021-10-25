@@ -9,17 +9,16 @@ Contribute code to the software the runs Wikimedia projects.
 <div class="contentsection">
 
 <div class="contentbox">
-<h4>Browse codebases</h4>
+<h4>Browse code bases</h4>
 <div>
-<p>Explore Wikimedia open source codebases.</p>
-<p>Learn more</p>
-</div></div>
+<p>Explore Wikimedia open source code bases.</p>
+<p><a href="opensource">Learn more</a></p></div></div>
 
 <div class="contentbox">
-<h4>Search codebases</h4>
+<h4>Search code bases</h4>
 <div>
-<p>Search Wikimedia codebases.</p>
-<p><a href="https://codesearch.wmcloud.org/search" target="_blank" rel="noopener noreferrer">Use the codesearch tool</a></p>
+<p>Search Wikimedia code bases.</p>
+<p><a href="https://codesearch.wmcloud.org/search" target="_blank" rel="noopener noreferrer">Use the code search tool</a></p>
 </div></div>
 
 <div class="contentbox">

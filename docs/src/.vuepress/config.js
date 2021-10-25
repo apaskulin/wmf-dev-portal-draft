@@ -67,7 +67,21 @@ module.exports = {
       ],
       '/api/': [
         '',
-        'reading'
+        'reading',
+        'editing',
+        'data',
+        'libraries',
+        'tutorials',
+        'catalog',
+        'contact'
+      ],
+      '/community/': [
+        '',
+        'updates'
+      ],
+      '/contribute/': [
+        '',
+        'opensource'
       ]
     },
     search: false,

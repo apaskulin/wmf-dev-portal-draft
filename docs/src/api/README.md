@@ -19,42 +19,41 @@ Wikimedia offers several public APIs to access content and data from Wikipedia a
 <h4>Editing APIs</h4>
 <div>
 <p>Create and edit pages, detect vandalism, get suggestions, and more.</p>
-<p>Learn more</p>
+<p><a href="editing">Learn more</a></p>
 </div></div>
 
 <div class="contentbox">
 <h4>Data APIs</h4>
 <div>
 <p>Get data and events from Wikimedia projects.</p>
-<p>Learn more</p>
-</div></div>
+<p><a href="data">Learn more</a></p></div></div>
 
 <div class="contentbox">
 <h4>Libraries</h4>
 <div>
 <p>Explore popular Wikimedia API libraries in a variety of programming languages.</p>
-<p>Learn more</p>
+<p><a href="libraries">Learn more</a></p>
 </div></div>
 
 <div class="contentbox">
 <h4>Tutorials</h4>
 <div>
 <p>Get started with Wikimedia APIs.</p>
-<p>Learn more</p>
+<p><a href="tutorials">Learn more</a></p>
 </div></div>
 
 <div class="contentbox">
 <h4>API catalog</h4>
 <div>
 <p>Browse the catalog of Wikimedia APIs.</p>
-<p>Learn more</p>
+<p><a href="catalog">Learn more</a></p>
 </div></div>
 
 <div class="contentbox">
 <h4>Support and contact</h4>
 <div>
 <p>Get the latest updates, and connect with API developers</p>
-<p>Learn more</p>
+<p><a href="contact">Learn more</a></p>
 </div></div>
 
 </div>
