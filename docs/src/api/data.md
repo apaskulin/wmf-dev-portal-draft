@@ -29,4 +29,11 @@ Get Wikidata, page views, edit scores, and more data from Wikimedia projects.
 <p><a href="https://www.mediawiki.org/wiki/Wikidata_Query_Service/User_Manual#SPARQL_endpoint" target="_blank" rel="noopener noreferrer">Read the docs on mediawiki.org</a></p>
 </div></div>
 
+<div class="contentbox">
+<h4>ORES API</h4>
+<div>
+<p>Use machine learning to detect vandalism.</p>
+<p><a href="https://ores.wikimedia.org/" target="_blank" rel="noopener noreferrer">Visit the ORES site</a></p>
+</div></div>
+
 </div>

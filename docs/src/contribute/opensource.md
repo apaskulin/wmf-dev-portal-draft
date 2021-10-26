@@ -51,3 +51,23 @@ The collaborative editing engine that runs Wikipedia
 </ul></div></div>
 
 </div>
+
+## Offline reading apps
+
+<div class="contentsection">
+
+<div class="contentbox">
+<h4>Offline projects</h4>
+<div>
+<p>Join the offline projects user group.</p>
+<p><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects" target="_blank" rel="noopener noreferrer">Visit the group page on Meta-Wiki</a></p>
+</div></div>
+
+<div class="contentbox">
+<h4>Kiwix</h4>
+<div>
+<p>Access Wikipedia without internet access.</p>
+<p><a href="https://www.kiwix.org/en/support-us/code/" target="_blank" rel="noopener noreferrer">Contribute to Kiwix</a></p>
+</div></div>
+
+</div>

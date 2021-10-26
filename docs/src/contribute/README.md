@@ -25,35 +25,35 @@ Contribute code to the software the runs Wikimedia projects.
 <h4>Contribute</h4>
 <div>
 <p>Share your coding skills and learn from others.</p>
-<p>Learn more</p>
+<p><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers" target="_blank" rel="noopener noreferrer">Read the docs on mediawiki.org</a></p>
 </div></div>
 
 <div class="contentbox">
 <h4>Development guidelines</h4>
 <div>
 <p>Understand best practices for writing code for Wikimedia software.</p>
-<p>Learn more</p>
+<p><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines" target="_blank" rel="noopener noreferrer">Read the docs on mediawiki.org</a></p>
 </div></div>
 
 <div class="contentbox">
 <h4>Documentation</h4>
 <div>
 <p>Find resources for writing and maintaining technical docs.</p>
-<p>Learn more</p>
+<p><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation" target="_blank" rel="noopener noreferrer">Read the docs on mediawiki.org</a></p>
 </div></div>
 
 <div class="contentbox">
 <h4>Localization</h4>
 <div>
 <p>Adapt code to different languages and regions.</p>
-<p>Learn more</p>
+<p><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation" target="_blank" rel="noopener noreferrer">Read the docs on mediawiki.org</a></p>
 </div></div>
 
 <div class="contentbox">
 <h4>Accessibility</h4>
 <div>
 <p>Develop software that can be used by everyone.</p>
-<p>Learn more</p>
+<p><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Accessibility_guide_for_developers" target="_blank" rel="noopener noreferrer">Read the docs on mediawiki.org</a></p>
 </div></div>
 
 </div>
