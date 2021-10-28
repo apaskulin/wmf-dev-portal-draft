@@ -9,7 +9,7 @@ Contribute code to the software the runs Wikimedia projects.
 <div class="contentsection">
 
 <div class="contentbox">
-<h4>Browse code bases</h4>
+<h4>Featured open-source projects</h4>
 <div>
 <p>Explore Wikimedia open source code bases.</p>
 <p><a href="opensource">Learn more</a></p></div></div>
@@ -21,8 +21,14 @@ Contribute code to the software the runs Wikimedia projects.
 <p><a href="https://codesearch.wmcloud.org/search" target="_blank" rel="noopener noreferrer">Use the code search tool</a></p>
 </div></div>
 
+</div>
+
+<hr>
+
+<div class="contentsection">
+
 <div class="contentbox">
-<h4>Contribute</h4>
+<h4>Get started contributing</h4>
 <div>
 <p>Share your coding skills and learn from others.</p>
 <p><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers" target="_blank" rel="noopener noreferrer">Read the docs on mediawiki.org</a></p>

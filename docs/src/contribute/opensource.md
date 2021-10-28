@@ -2,7 +2,7 @@
 pageClass: custom-page-class
 ---
 
-# Wikimedia open source software
+# Featured Wikimedia open source projects
 
 Browse open source software projects from Wikimedia.
 
