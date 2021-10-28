@@ -35,55 +35,51 @@ module.exports = {
     logo: '/logo.svg',
     nav: [
       {
-        text: 'APIs',
-        link: '/api/'
-      },
-      {
-        text: 'Tools',
-        link: '/tools/'
-      },
-      {
-        text: 'Contribute',
-        link: '/contribute/'
-      },
-      {
-        text: 'Operations',
-        link: '/operations/'
-      },
-      {
-        text: 'Community',
-        link: '/community/'
-      },
-      {
         text: 'About',
         link: '/about/',
       }
     ],
-    sidebar: {
-      '/about/': [
-        '',
-        'contributing',
-        'images'
-      ],
-      '/api/': [
-        '',
-        'reading',
-        'editing',
-        'data',
-        'libraries',
-        'tutorials',
-        'catalog',
-        'contact'
-      ],
-      '/community/': [
-        '',
-        'updates'
-      ],
-      '/contribute/': [
-        '',
-        'opensource'
-      ]
-    },
+    sidebar: [
+      {
+        title: 'Wikimedia APIs',
+        path: '/api/',
+        children: [
+          'api/reading',
+          'api/editing',
+          'api/data',
+          'api/libraries',
+          'api/tutorials',
+          'api/catalog',
+          'api/contact'
+        ]
+      },
+      {
+        title: 'Data and machine learning',
+        path: '/data/'
+      },
+      {
+        title: 'Build tools',
+        path: '/tools/'
+      },
+      {
+        title: 'Contribute',
+        path: '/contribute/',
+        children: [
+          'contribute/opensource'
+        ]
+      },
+      {
+        title: 'Operations',
+        path: '/operations/'
+      },
+      {
+        title: 'Community',
+        path: '/community/',
+        children: [
+          'community/updates'
+        ]
+      }
+    ],
     search: false,
   },
 

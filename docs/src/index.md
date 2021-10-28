@@ -58,16 +58,6 @@ Help build the Wikimedia ecosystem with open source software projects
 
 <br>
 
-<img style="float: left; padding-right:70px; padding-top:30px;" src="https://upload.wikimedia.org/wikipedia/commons/3/31/WP20Symbols_SERPENT.svg" alt="Computer" width="140">
-
-<h1 style="margin-block-end: 0.2em;">Join the community</h1>
-
-Join the Wikimedia technical community
-
-[Learn more](community)
-
-<br>
-
 <img style="float: left; padding-right:70px; padding-top:30px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/WP20Symbols_IBIS_OF_THOTH.svg" alt="Computer" width="140">
 
 <h1 style="margin-block-end: 0.2em;">Learn about Wikimedia Foundation operations</h1>
@@ -75,5 +65,15 @@ Join the Wikimedia technical community
 Learn about how Wikimedia infrastructure and process works
 
 [Learn more](operations)
+
+<br>
+
+<img style="float: left; padding-right:70px; padding-top:30px;" src="https://upload.wikimedia.org/wikipedia/commons/3/31/WP20Symbols_SERPENT.svg" alt="Computer" width="140">
+
+<h1 style="margin-block-end: 0.2em;">Join the community</h1>
+
+Join the Wikimedia technical community
+
+[Learn more](community)
 
 <br>
