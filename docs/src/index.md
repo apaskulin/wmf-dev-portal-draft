@@ -16,64 +16,62 @@ Learn about, interact with, and contribute to the open source technology that po
 
 </div>
 
-<br>
+<div class="home-section">
 
-<img style="float: left; padding-right:70px; padding-top:30px;" src="https://upload.wikimedia.org/wikipedia/commons/5/51/WP20Symbols_FIREWORKS.svg" alt="Computer" width="140">
+<a href="api"><img style="float: left; padding-right:50px; padding-top:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/51/WP20Symbols_FIREWORKS.svg" alt="Computer" width="100"></a>
 
-<h1 style="margin-block-end: 0.2em;">Use Wikimedia APIs</h1>
+<h2 style="margin-block-end: 0.2em;"><a href="api">Use Wikimedia APIs</a></h2>
 
 Public API access to content from Wikipedia and other free knowledge projects
 
-[Learn more](api)
+</div>
 
-<br>
+<div class="home-section">
 
-<img style="float: left; padding-right:70px; padding-top:30px;" src="https://upload.wikimedia.org/wikipedia/commons/2/26/WP20Symbols_RUG.svg" alt="Computer" width="140">
+<a href="data"><img style="float: left; padding-right:50px; padding-top:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/26/WP20Symbols_RUG.svg" alt="Computer" width="100"></a>
 
-<h1 style="margin-block-end: 0.2em;">Research data and machine learning</h1>
+<h2 style="margin-block-end: 0.2em;"><a href="data">Data and machine learning</a></h2>
 
-Access public data for Wikipedia and get datasets for machine learning
+Access public Wikipedia datasets for research and machine learning
 
-[Learn more](data)
+</div>
 
-<br>
+<div class="home-section">
 
-<img style="float: left; padding-right:70px; padding-top:30px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/WP20Symbols_OWL_OF_ATHENA.svg" alt="Computer" width="140">
+<a href="tools"><img style="float: left; padding-right:50px; padding-top:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/WP20Symbols_OWL_OF_ATHENA.svg" alt="Computer" width="100"></a>
 
-<h1 style="margin-block-end: 0.2em;">Build tools for Wikimedia projects</h1>
+<h2 style="margin-block-end: 0.2em;"><a href="tools">Build tools for Wikimedia projects</a></h2>
 
 Develop tools that improve Wikimedia projects
 
-[Learn more](tools)
+</div>
 
-<br>
+<div class="home-section">
 
-<img style="float: left; padding-right:70px; padding-top:30px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/WP20Symbols_MediaWiki.svg" alt="Computer" width="140">
+<a href="contribute"><img style="float: left; padding-right:50px; padding-top:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/WP20Symbols_MediaWiki.svg" alt="Computer" width="100"></a>
 
-<h1 style="margin-block-end: 0.2em;">Contribute to Wikimedia open source</h1>
+<h2 style="margin-block-end: 0.2em;"><a href="contribute">Contribute to Wikimedia open source</a></h2>
 
 Help build the Wikimedia ecosystem with open source software projects
 
-[Learn more](contribute)
+</div>
 
-<br>
+<div class="home-section">
 
-<img style="float: left; padding-right:70px; padding-top:30px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/WP20Symbols_IBIS_OF_THOTH.svg" alt="Computer" width="140">
+<a href="operations"><img style="float: left; padding-right:50px; padding-top:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/WP20Symbols_IBIS_OF_THOTH.svg" alt="Computer" width="100"></a>
 
-<h1 style="margin-block-end: 0.2em;">Learn about Wikimedia Foundation operations</h1>
+<h2 style="margin-block-end: 0.2em;"><a href="operations">Learn about Wikimedia Foundation operations</a></h2>
 
 Learn about how Wikimedia infrastructure and process works
 
-[Learn more](operations)
+</div>
 
-<br>
+<div class="home-section">
 
-<img style="float: left; padding-right:70px; padding-top:30px;" src="https://upload.wikimedia.org/wikipedia/commons/3/31/WP20Symbols_SERPENT.svg" alt="Computer" width="140">
+<a href="community"><img style="float: left; padding-right:50px; padding-top:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/31/WP20Symbols_SERPENT.svg" alt="Computer" width="100"></a>
 
-<h1 style="margin-block-end: 0.2em;">Join the community</h1>
+<h2 style="margin-block-end: 0.2em;"><a href="community">Join the community</a></h2>
 
 Join the Wikimedia technical community
 
-[Learn more](community)
-
-<br>
+</div>
