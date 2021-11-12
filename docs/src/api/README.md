@@ -6,54 +6,37 @@ pageClass: custom-page-class
 
 Wikimedia offers several public APIs to access content and data from Wikipedia and other free knowledge projects.
 
-<div class="contentsection">
+## Reading APIs
+Fetch freely licensed content from Wikimedia projects.
 
-<div class="contentbox">
-<h4>Reading APIs</h4>
-<div>
-<p>Fetch freely licensed content from Wikimedia projects.</p>
-<p><a href="reading">Learn more</a></p>
-</div></div>
+[Learn more](reading)
 
-<div class="contentbox">
-<h4>Editing APIs</h4>
-<div>
-<p>Create and edit pages, detect vandalism, get suggestions, and more.</p>
-<p><a href="editing">Learn more</a></p>
-</div></div>
+## Editing APIs
+Create and edit pages, detect vandalism, get suggestions, and more.
 
-<div class="contentbox">
-<h4>Data APIs</h4>
-<div>
-<p>Get data and events from Wikimedia projects.</p>
-<p><a href="data">Learn more</a></p></div></div>
+<a href="editing">Learn more</a>
 
-<div class="contentbox">
-<h4>Libraries</h4>
-<div>
-<p>Explore popular Wikimedia API libraries in a variety of programming languages.</p>
-<p><a href="libraries">Learn more</a></p>
-</div></div>
+## Data APIs
+Get data and events from Wikimedia projects.
 
-<div class="contentbox">
-<h4>Tutorials</h4>
-<div>
-<p>Get started with Wikimedia APIs.</p>
-<p><a href="tutorials">Learn more</a></p>
-</div></div>
+<a href="data">Learn more</a>
 
-<div class="contentbox">
-<h4>API catalog</h4>
-<div>
-<p>Browse the catalog of Wikimedia APIs.</p>
-<p><a href="catalog">Learn more</a></p>
-</div></div>
+## Libraries
+Explore popular Wikimedia API libraries in a variety of programming languages.
 
-<div class="contentbox">
-<h4>Support and contact</h4>
-<div>
-<p>Get the latest updates, and connect with API developers</p>
-<p><a href="contact">Learn more</a></p>
-</div></div>
+<a href="libraries">Learn more</a>
 
-</div>
+## Tutorials
+Get started with Wikimedia APIs.
+
+<a href="tutorials">Learn more</a>
+
+## API catalog
+Browse the catalog of Wikimedia APIs.
+
+<a href="catalog">Learn more</a>
+
+## Support and contact
+Get the latest updates, and connect with API developers.
+
+<a href="contact">Learn more</a>
